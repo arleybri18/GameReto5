@@ -1,0 +1,7 @@
+Cual es la extension de un archivo separado por comas?,csv
+Que siginifica la abreviacion OS en el lenguaje informatico?,Operating System
+Que significa CPU? refiriendose a una computadora.,Central Processing Unit
+Cual fue el primer buscador de internet?,ALTAVISTA
+Cual es el protocolo de comunicacion que se usa principalmente para la conexion y el trafico de internet?,TCP/IP
+Cual es el lenguaje de programacion de alto nivel de proposito general creado por Guido Van Rossum en Holanda?,Python
+Cuantos bits hay en un byte?,8
